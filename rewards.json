@@ -1,0 +1,289 @@
+[
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x9f28B1eACf17F64cD952DeAA14f0487b9F74bbb6",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 401.572512
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x3BE852FF9F142783c71435524D63E2196E5f305A",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 353.2896
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x2E14E24Ec3efBD3b8c8976405351f8233d59650e",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 353.2896
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x830203B9a16920Feb55D58d964Ce83E1BA000269",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 209.0017212
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x69f1216cB2905bf0852f74624D5Fa7b5FC4dA710",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 1428.571429
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xd387c40a72703B38A5181573724bcaF2Ce6038a5",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 1428.571429
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x500173F418137090dad96421811147b63b448A0f",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xB87495219C432fc85161e4283DfF131692A528BD",
+    "rewardToken": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+    "rewardPerDay": 1607.142857
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xB87495219C432fc85161e4283DfF131692A528BD",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x4b9bfed1dd4e6780454b2b02213788f31ffba74a",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 714.2857143
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x0242DD3b2e792CdBD399cc6195951bC202Aee97B",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xDe568Fd89B3349A766f45D5aB2A7c0510F476a80",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x0Be4aC7dA6cd4bAD60d96FbC6d091e1098aFA358",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x0f475257B6e2fA9a48eF84CB4a91d4288729F39e",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x60563686ca7b668e4a2d7D31448e5F10456ecaF8",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x987cdD61b093Fb740E7eB04183eE2D29Da014aF9",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x6BB53cDAEAA76CC14878b2f474e0BE71B0A95509",
+    "rewardToken": "0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73",
+    "rewardPerDay": 285.7142857
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x6BB53cDAEAA76CC14878b2f474e0BE71B0A95509",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 285.7142857
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x5A4eF05343245CF6E5011c48459e68AAb0A7B95E",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 142.8571429
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x5A4eF05343245CF6E5011c48459e68AAb0A7B95E",
+    "rewardToken": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "rewardPerDay": 35.71428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xf83Ede541B25F5743A230f85E60266e80cdf1e9a",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0xf83Ede541B25F5743A230f85E60266e80cdf1e9a",
+    "rewardToken": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "rewardPerDay": 107.1428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Arbitrum",
+    "poolId": "0x7C5c54ecbF3BF9A928890ee675f8591f2CF52E09",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 15,
+    "chain": "Avax",
+    "poolId": "0x9f8973FB86b35C307324eC31fd81Cf565E2F4a63",
+    "rewardToken": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 15,
+    "chain": "Avax",
+    "poolId": "0xe6C7E4142b0cB24F2bFa7b9a50911375f8EE8DB9",
+    "rewardToken": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "rewardPerDay": 30
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x9f28B1eACf17F64cD952DeAA14f0487b9F74bbb6",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 401.572512
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x3BE852FF9F142783c71435524D63E2196E5f305A",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 353.2896
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x2E14E24Ec3efBD3b8c8976405351f8233d59650e",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 353.2896
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x830203B9a16920Feb55D58d964Ce83E1BA000269",
+    "rewardToken": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+    "rewardPerDay": 209.0017212
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x69f1216cB2905bf0852f74624D5Fa7b5FC4dA710",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 1428.571429
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0xd387c40a72703B38A5181573724bcaF2Ce6038a5",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 1428.571429
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x500173F418137090dad96421811147b63b448A0f",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0xB87495219C432fc85161e4283DfF131692A528BD",
+    "rewardToken": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+    "rewardPerDay": 1607.142857
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0xB87495219C432fc85161e4283DfF131692A528BD",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x4b9bfed1dd4e6780454b2b02213788f31ffba74a",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 714.2857143
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x0242DD3b2e792CdBD399cc6195951bC202Aee97B",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0xDe568Fd89B3349A766f45D5aB2A7c0510F476a80",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 178.5714286
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x0Be4aC7dA6cd4bAD60d96FbC6d091e1098aFA358",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 357.1428571
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x5A4eF05343245CF6E5011c48459e68AAb0A7B95E",
+    "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "rewardPerDay": 142.8571429
+  },
+  {
+    "epoch": 14,
+    "chain": "Arbitrum",
+    "poolId": "0x5A4eF05343245CF6E5011c48459e68AAb0A7B95E",
+    "rewardToken": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "rewardPerDay": 35.71428571
+  },
+  {
+    "epoch": 14,
+    "chain": "Avax",
+    "poolId": "0x9f8973FB86b35C307324eC31fd81Cf565E2F4a63",
+    "rewardToken": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+    "rewardPerDay": 357.1428571
+  }
+]
