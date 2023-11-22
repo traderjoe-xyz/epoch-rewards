@@ -957,5 +957,12 @@
     "poolId": "0xb6a2a7456E651Cc7CeB99735A086bFf540e94d5d",
     "rewardPerDay": 180,
     "rewardToken": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
+  },
+  {
+    "epoch": 17,
+    "chain": "Arbitrum",
+    "poolId": "0xb6a2a7456E651Cc7CeB99735A086bFf540e94d5d",
+    "rewardPerDay": 71.428,
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
   }
 ]
