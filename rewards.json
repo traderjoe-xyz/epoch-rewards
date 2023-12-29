@@ -1818,5 +1818,40 @@
     "poolId": "0x22B8fd7294c6B1Aaab3263902Cd2883Fc9360fe6",
     "rewardPerDay": 214.29,
     "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+  },
+  {
+    "epoch": 20,
+    "chain": "Arbitrum",
+    "poolId": "0x6362592E1d84d7bc356C5D81Fa0CDc116b9B419B",
+    "rewardPerDay": 741.71,
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+  },
+  {
+    "epoch": 20,
+    "chain": "Arbitrum",
+    "poolId": "0x6362592E1d84d7bc356C5D81Fa0CDc116b9B419B",
+    "rewardPerDay": 71.43,
+    "rewardToken": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122"
+  },
+  {
+    "epoch": 20,
+    "chain": "Avax",
+    "poolId": "0xA83fceb94E7A5C2873bdb58DB1Ff6f498f66b285",
+    "rewardPerDay": 3214.29,
+    "rewardToken": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5"
+  },
+  {
+    "epoch": 20,
+    "chain": "Avax",
+    "poolId": "0xA83fceb94E7A5C2873bdb58DB1Ff6f498f66b285",
+    "rewardPerDay": 357.14,
+    "rewardToken": "0xc3fb03E75cf916973D430D63635f3f6154d01dc9"
+  },
+  {
+    "epoch": 20,
+    "chain": "Avax",
+    "poolId": "0x10E54566d611D2aa9169cDa58eA3BE602AAa5749",
+    "rewardPerDay": 357.14,
+    "rewardToken": "0xc3fb03E75cf916973D430D63635f3f6154d01dc9"
   }
 ]
