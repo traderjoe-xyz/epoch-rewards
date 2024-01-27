@@ -26,4 +26,4 @@ jobs:
         run: ajv validate -s schema_rewards.json -d './rewards.json' --strict=false
 
       - name: Validate epochs.json
-        run: ajv validate -s schema_epoch.json -d './epochs.json' --strict=false
+        run: ajv validate -s schema_epochs.json -d './epochs.json' --strict=false
