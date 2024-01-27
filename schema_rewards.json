@@ -5,7 +5,7 @@
     "type": "object",
     "properties": {
       "epoch": { "type": "number" },
-      "chain": { "type": "string", "enum": ["Avax", "Arbitrum"] },
+      "chain": { "type": "string", "enum": ["Avax", "Arbitrum", "BNB"] },
       "poolId": { "type": "string", "pattern": "^\\S*$" },
       "rewardPerDay": { "type": "number" },
       "rewardToken": { "type": "string", "pattern": "^\\S*$" }
