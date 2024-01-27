@@ -2531,7 +2531,7 @@
     "chain": "Arbitrum",
     "poolId": "0xd387c40a72703B38A5181573724bcaF2Ce6038a5",
     "rewardPerDay": 357.14285714285717,
-    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548 "
   },
   {
     "epoch": 22,
@@ -2571,7 +2571,7 @@
   {
     "epoch": 22,
     "chain": "Avax",
-    "poolId": "0x9c27d9cE9942A7A9BB1889Cb5512874B8549eCAe",
+    "poolId": "0x2EEB17769150F0BDdA1Cb30F30c08D49617Ba458",
     "rewardPerDay": 17857.14285714286,
     "rewardToken": "0xb262a485d98D8e19175818D47453e7812cA255A8"
   }
