@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "epoch": { "type": "number" },
+      "chain": { "type": "string", "enum": ["Avax", "Arbitrum"] },
+      "poolId": { "type": "string", "pattern": "^\\S*$" },
+      "rewardPerDay": { "type": "number" },
+      "rewardToken": { "type": "string", "pattern": "^\\S*$" }
+    },
+    "required": ["epoch", "chain", "poolId", "rewardPerDay", "rewardToken"],
+    "additionalProperties": false
+  }
+}
