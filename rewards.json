@@ -2531,14 +2531,14 @@
     "chain": "Arbitrum",
     "poolId": "0xd387c40a72703B38A5181573724bcaF2Ce6038a5",
     "rewardPerDay": 357.14285714285717,
-    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548 "
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
   },
   {
     "epoch": 22,
     "chain": "Arbitrum",
     "poolId": "0x94d53BE52706a155d27440C4a2434BEa772a6f7C",
     "rewardPerDay": 357.14285714285717,
-    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548 "
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
   },
   {
     "epoch": 22,
