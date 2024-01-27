@@ -1,0 +1,29 @@
+name: Validate JSON
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install AJV CLI
+        run: npm install -g ajv-cli
+
+      - name: Validate rewards.json
+        run: ajv validate -s schema_rewards.json -d './rewards.json' --strict=false
+
+      - name: Validate epochs.json
+        run: ajv validate -s schema_epochs.json -d './epochs.json' --strict=false
