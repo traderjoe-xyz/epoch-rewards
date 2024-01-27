@@ -170,7 +170,7 @@
   {
     "epoch": 8,
     "chain": "Avax",
-    "poolId": "0x6fE050dc81B98E4464D3B4461A7995A8bf3350Db",
+    "poolId": "0x6fE050dc81B98E4464D3B4461A7995A8bf3350Db ",
     "rewardPerDay": 0,
     "rewardToken": ""
   },
