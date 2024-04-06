@@ -3852,14 +3852,14 @@
   {
     "epoch": 27,
     "chain": "Arbitrum",
-    "poolId": "0xA4ABb0Acd8AD3Fc5FDA75257dB56eA0FcCf4dB3f",
+    "poolId": "0x380BEf61264cba04b6d74002aC6931d1b679c49d",
     "rewardPerDay": 71.42857142857143,
     "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
   },
   {
     "epoch": 27,
     "chain": "Arbitrum",
-    "poolId": "0xA4ABb0Acd8AD3Fc5FDA75257dB56eA0FcCf4dB3f",
+    "poolId": "0x380BEf61264cba04b6d74002aC6931d1b679c49d",
     "rewardPerDay": 142.85714285714286,
     "rewardToken": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
   }
