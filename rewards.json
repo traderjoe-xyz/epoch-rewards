@@ -3848,5 +3848,19 @@
     "poolId": "0xB87495219C432fc85161e4283DfF131692A528BD",
     "rewardPerDay": 357.14285714285717,
     "rewardToken": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07"
+  },
+  {
+    "epoch": 27,
+    "chain": "Arbitrum",
+    "poolId": "0xA4ABb0Acd8AD3Fc5FDA75257dB56eA0FcCf4dB3f",
+    "rewardPerDay": 71.42857142857143,
+    "rewardToken": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+  },
+  {
+    "epoch": 27,
+    "chain": "Arbitrum",
+    "poolId": "0xA4ABb0Acd8AD3Fc5FDA75257dB56eA0FcCf4dB3f",
+    "rewardPerDay": 142.85714285714286,
+    "rewardToken": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
   }
 ]
